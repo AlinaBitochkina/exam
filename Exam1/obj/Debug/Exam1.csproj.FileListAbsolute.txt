@@ -1,0 +1,7 @@
+C:\Users\alina\Desktop\geekbrains\c#\Seminars\exam\exam\Exam1\obj\Debug\Exam1.csproj.AssemblyReference.cache
+C:\Users\alina\Desktop\geekbrains\c#\Seminars\exam\exam\Exam1\obj\Debug\Exam1.csproj.CoreCompileInputs.cache
+C:\Users\alina\Desktop\geekbrains\c#\Seminars\exam\exam\Exam1\bin\Debug\Exam1.exe.config
+C:\Users\alina\Desktop\geekbrains\c#\Seminars\exam\exam\Exam1\bin\Debug\Exam1.exe
+C:\Users\alina\Desktop\geekbrains\c#\Seminars\exam\exam\Exam1\bin\Debug\Exam1.pdb
+C:\Users\alina\Desktop\geekbrains\c#\Seminars\exam\exam\Exam1\obj\Debug\Exam1.exe
+C:\Users\alina\Desktop\geekbrains\c#\Seminars\exam\exam\Exam1\obj\Debug\Exam1.pdb
